@@ -7,14 +7,14 @@
    
    Reset Style Sheet for the Pandaisia Chocolates Website
    Author: Aleah Woodward
-   Date: March 2,2022  
+   Date: March 7,2022  
    
    Filename: pc_reset.css
 
 */
 
 /* Structural Styles */
-
+article, aside, figcaption, figure, footer, header, main, nav, section { display: block; }
 
 
 
