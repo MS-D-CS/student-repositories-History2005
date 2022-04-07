@@ -6,8 +6,8 @@
    Tutorial Case
 
    Tables Style Sheet
-   Author: 
-   Date:   
+   Author: Aleah Woodward
+   Date: April 7,2022
 
    Filename:         dlr_tables.css
 
@@ -22,7 +22,7 @@ table.schedule {
    width: 100%;
 }
 /* Table Cell Styles */
-tabel.schedule th, table.schedule td {
+table.schedule th, table.schedule td {
    border:1px solid gray;
 }
 
